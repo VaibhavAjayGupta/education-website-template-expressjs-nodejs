@@ -2,4 +2,4 @@
 Education website in HTML, nodejs and expressjs
 
 
-Sample - <a href="http://triumphclasses.online">Triumph Classes </a>
+Sample - <a href="http://triumphclasses.online" target="_blank">Triumph Classes </a>
